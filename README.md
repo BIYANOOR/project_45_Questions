@@ -1,2 +1,2 @@
-# project_45_Questions
-These are 45 assignment question of typescript
+# 45_question_p000
+ These are 45 assignment questions of coding practice
